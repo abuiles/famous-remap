@@ -1,0 +1,19 @@
+{
+  "name": "famous-remap",
+  "version": "0.0.0",
+  "dependencies": {
+    "famous": "https://github.com/Famous/famous.git",
+    "ember-qunit": "~0.1.8"
+  },
+  "authors": [
+    "Adolfo Builes <builes.adolfo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

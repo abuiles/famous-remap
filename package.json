@@ -1,0 +1,15 @@
+{
+  "name": "famous-remap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "broccoli": "0.12.3",
+    "broccoli-petal": "^0.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
