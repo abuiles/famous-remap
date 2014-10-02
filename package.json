@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "broccoli": "0.12.3",
-    "broccoli-petal": "^0.0.1"
+    "broccoli-petal": "^0.0.2"
   },
   "author": "",
   "license": "ISC"
